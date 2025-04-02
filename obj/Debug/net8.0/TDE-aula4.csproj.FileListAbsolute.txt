@@ -1,0 +1,14 @@
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\bin\Debug\net8.0\TDE-aula4.exe
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\bin\Debug\net8.0\TDE-aula4.deps.json
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\bin\Debug\net8.0\TDE-aula4.runtimeconfig.json
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\bin\Debug\net8.0\TDE-aula4.dll
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\bin\Debug\net8.0\TDE-aula4.pdb
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\TDE-aula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\TDE-aula4.AssemblyInfoInputs.cache
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\TDE-aula4.AssemblyInfo.cs
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\TDE-aula4.csproj.CoreCompileInputs.cache
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\TDE-aula4.dll
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\refint\TDE-aula4.dll
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\TDE-aula4.pdb
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\TDE-aula4.genruntimeconfig.cache
+C:\Users\hicar\Desktop\laboratorio\TDE-aula4\obj\Debug\net8.0\ref\TDE-aula4.dll
